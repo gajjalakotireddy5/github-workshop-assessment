@@ -1,5 +1,5 @@
 # github-workshop-assessment
-Name:Gajjala kottireddy
+Name:Gajjala kottireddy — Agit add README.md
 college:Kalasalingam Academy of Research and Education 
 workshop date:10-02-2026
 
